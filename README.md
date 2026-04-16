@@ -38,15 +38,15 @@ Git • GitHub • VS Code • Canva
 ## 📈 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deekshasoni28&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=moon-26k&show_icons=true&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=deekshasoni28&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=moon-26k&theme=default" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deekshasoni28&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moon-26k&layout=compact" />
 </p>
 
 ---
@@ -54,7 +54,7 @@ Git • GitHub • VS Code • Canva
 ## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deekshasoni28&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moon-26k&theme=minimal" />
 </p>
 
 ---
